@@ -1,0 +1,2 @@
+#code to add thymeleaf properties into our html page we use this below code inside the openning tag of the HTML tag 
+xmlns:th="http://www.thymeleaf.org"
